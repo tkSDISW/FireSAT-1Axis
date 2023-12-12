@@ -14,7 +14,7 @@
     </ownedViews>
     <ownedViews xmi:type="viewpoint:DView" uid="_-OlooFMcEe6h5pTlatu_LA">
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']"/>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_Ck9L8lMdEe6h5pTlatu_LA" name="[LAB] Power Subsystem - 1 Axis" repPath="#_Ck9L8FMdEe6h5pTlatu_LA" changeId="58bfed7d-e062-48fa-8fc2-72fcd59b3d4c">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_Ck9L8lMdEe6h5pTlatu_LA" name="[LAB] Power Subsystem - 1 Axis" repPath="#_Ck9L8FMdEe6h5pTlatu_LA" changeId="79831309-6ba0-4eec-ad4d-f575ea1764ec">
         <eAnnotations xmi:type="description:DAnnotation" uid="_ClGV5FMdEe6h5pTlatu_LA" source="https://www.polarsys.org/capella/dannotation/DesactivatedFilters">
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ClGV5VMdEe6h5pTlatu_LA" key="hide.computed.component.exchanges.filter" value="true"/>
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ClGV5lMdEe6h5pTlatu_LA" key="hide.computed.physical.links.filter" value="true"/>
@@ -145,7 +145,7 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_J5CytlMfEe6h5pTlatu_LA"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_J5CysVMfEe6h5pTlatu_LA" fontName="Segoe UI" fontHeight="8"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J5CyslMfEe6h5pTlatu_LA" x="258" y="420"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J5CyslMfEe6h5pTlatu_LA" x="220" y="410"/>
         </children>
         <styles xmi:type="notation:DiagramStyle" xmi:id="_ClGV41MdEe6h5pTlatu_LA"/>
         <edges xmi:type="notation:Edge" xmi:id="_38uXEFMeEe6h5pTlatu_LA" type="4001" element="_38lNLFMeEe6h5pTlatu_LA" source="_wqeRcFMeEe6h5pTlatu_LA" target="_DfPp8FMdEe6h5pTlatu_LA">
@@ -198,17 +198,17 @@
         </edges>
         <edges xmi:type="notation:Edge" xmi:id="_J5CyvVMfEe6h5pTlatu_LA" type="4001" element="_J45ByFMfEe6h5pTlatu_LA" source="_J5CysFMfEe6h5pTlatu_LA" target="_efY2gFMdEe6h5pTlatu_LA">
           <children xmi:type="notation:Node" xmi:id="_J5CywVMfEe6h5pTlatu_LA" type="6001">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J5CywlMfEe6h5pTlatu_LA" x="7" y="-6"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J5CywlMfEe6h5pTlatu_LA" x="6" y="-7"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_J5Cyw1MfEe6h5pTlatu_LA" type="6002">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J5CyxFMfEe6h5pTlatu_LA" y="4"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J5CyxFMfEe6h5pTlatu_LA" x="1" y="3"/>
           </children>
           <children xmi:type="notation:Node" xmi:id="_J5CyxVMfEe6h5pTlatu_LA" type="6003">
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J5CyxlMfEe6h5pTlatu_LA" y="2"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J5CyxlMfEe6h5pTlatu_LA" x="3" y="2"/>
           </children>
           <styles xmi:type="notation:ConnectorStyle" xmi:id="_J5CyvlMfEe6h5pTlatu_LA" jumpLinkStatus="Above" jumpLinkType="Tunnel"/>
           <styles xmi:type="notation:FontStyle" xmi:id="_J5Cyv1MfEe6h5pTlatu_LA" fontName="Segoe UI" fontHeight="8"/>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_J5CywFMfEe6h5pTlatu_LA" points="[-17, -30, 50, 93]$[-51, -93, 16, 30]"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_J5CywFMfEe6h5pTlatu_LA" points="[-8, -30, 21, 83]$[-22, -83, 7, 30]"/>
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_J5Cyx1MfEe6h5pTlatu_LA" id="(0.5,0.5)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_J5CyyFMfEe6h5pTlatu_LA" id="(0.5,0.5)"/>
         </edges>
